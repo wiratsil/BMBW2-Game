@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "285588374137",
+    "project_id": "bmbw2-192a9",
+    "storage_bucket": "bmbw2-192a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285588374137:android:24b5b6c816452c1c9ccaa8",
+        "android_client_info": {
+          "package_name": "com.covestro.storyappthai2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285588374137-kne0gefsmt8ei6gbkrbtkr0gnnuh8kf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4UlcuoL-ebpHjkOX9GB7bgAuTQHwgEQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285588374137-kne0gefsmt8ei6gbkrbtkr0gnnuh8kf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285588374137-kksfg87qg589hs0qp7t4l82kia7h2n5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.covestro.bmbwep2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
